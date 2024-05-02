@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamDisgust",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Disgust",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Disgust",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Disgust",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Disgust",
+			"Value": 0.3,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Disgust",
+			"Value": 0.3,
+			"Blend": "Add"
+		}
+	]
+}

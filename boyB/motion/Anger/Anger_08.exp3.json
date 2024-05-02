@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamAnger",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Anger",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Anger",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Anger",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Anger",
+			"Value": 0.8,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Anger",
+			"Value": 0.8,
+			"Blend": "Add"
+		}
+	]
+}

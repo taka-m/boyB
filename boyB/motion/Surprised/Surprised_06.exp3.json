@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamSurprised",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Surprised",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Surprised",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Surprised",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Surprised",
+			"Value": 0.6,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Surprised",
+			"Value": 0.6,
+			"Blend": "Add"
+		}
+	]
+}

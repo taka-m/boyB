@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamFear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Fear",
+			"Value": 1,
+			"Blend": "Add"
+		}
+	]
+}

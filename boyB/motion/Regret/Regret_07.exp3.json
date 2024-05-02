@@ -1,0 +1,40 @@
+{
+	"Type": "Live2D Expression",
+	"Parameters": [
+		{
+			"Id": "ParamNeutral",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamRegret",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeLOpen_Regret",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamEyeROpen_Regret",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowL_Regret",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamBrowR_Regret",
+			"Value": 0.7,
+			"Blend": "Add"
+		},
+		{
+			"Id": "ParamMouth_Regret",
+			"Value": 0.7,
+			"Blend": "Add"
+		}
+	]
+}
