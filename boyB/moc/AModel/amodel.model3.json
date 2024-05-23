@@ -49,203 +49,203 @@
 				"File": "../../motion/Joy/Joy_10.exp3.json"
 			},
 			{
-				"Name": "sad11-1",
+				"Name": "Sad_01",
 				"File": "../../motion/Sad/Sad_01.exp3.json"
 			},
 			{
-				"Name": "sad11-2",
+				"Name": "Sad_02",
 				"File": "../../motion/Sad/Sad_02.exp3.json"
 			},
 			{
-				"Name": "sad11-3",
+				"Name": "Sad_03",
 				"File": "../../motion/Sad/Sad_03.exp3.json"
 			},
 			{
-				"Name": "sad11-4",
+				"Name": "Sad_04",
 				"File": "../../motion/Sad/Sad_04.exp3.json"
 			},
 			{
-				"Name": "sad11-5",
+				"Name": "Sad_05",
 				"File": "../../motion/Sad/Sad_05.exp3.json"
 			},
 			{
-				"Name": "sad11-6",
+				"Name": "Sad_06",
 				"File": "../../motion/Sad/Sad_06.exp3.json"
 			},
 			{
-				"Name": "sad11-7",
+				"Name": "Sad_07",
 				"File": "../../motion/Sad/Sad_07.exp3.json"
 			},
 			{
-				"Name": "sad11-8",
+				"Name": "Sad_08",
 				"File": "../../motion/Sad/Sad_08.exp3.json"
 			},
 			{
-				"Name": "sad11-9",
+				"Name": "Sad_09",
 				"File": "../../motion/Sad/Sad_09.exp3.json"
 			},
 			{
-				"Name": "sad11-10",
+				"Name": "Sad_10",
 				"File": "../../motion/Sad/Sad_10.exp3.json"
 			},
 			{
-				"Name": "disgust11-1",
+				"Name": "Disgust_01",
 				"File": "../../motion/Disgust/Disgust_01.exp3.json"
 			},
 			{
-				"Name": "disgust11-2",
+				"Name": "Disgust_02",
 				"File": "../../motion/Disgust/Disgust_02.exp3.json"
 			},
 			{
-				"Name": "disgust11-3",
+				"Name": "Disgust_03",
 				"File": "../../motion/Disgust/Disgust_03.exp3.json"
 			},
 			{
-				"Name": "disgust11-4",
+				"Name": "Disgust_04",
 				"File": "../../motion/Disgust/Disgust_04.exp3.json"
 			},
 			{
-				"Name": "disgust11-5",
+				"Name": "Disgust_05",
 				"File": "../../motion/Disgust/Disgust_05.exp3.json"
 			},
 			{
-				"Name": "disgust11-6",
+				"Name": "Disgust_06",
 				"File": "../../motion/Disgust/Disgust_06.exp3.json"
 			},
 			{
-				"Name": "disgust11-7",
+				"Name": "Disgust_07",
 				"File": "../../motion/Disgust/Disgust_07.exp3.json"
 			},
 			{
-				"Name": "disgust11-8",
+				"Name": "Disgust_08",
 				"File": "../../motion/Disgust/Disgust_08.exp3.json"
 			},
 			{
-				"Name": "disgust11-9",
+				"Name": "Disgust_09",
 				"File": "../../motion/Disgust/Disgust_09.exp3.json"
 			},
 			{
-				"Name": "disgust11-10",
+				"Name": "Disgust_10",
 				"File": "../../motion/Disgust/Disgust_10.exp3.json"
 			},
 			{
-				"Name": "fear11-1",
+				"Name": "Fear_01",
 				"File": "../../motion/Fear/Fear_01.exp3.json"
 			},
 			{
-				"Name": "fear11-2",
+				"Name": "Fear_02",
 				"File": "../../motion/Fear/Fear_02.exp3.json"
 			},
 			{
-				"Name": "fear11-3",
+				"Name": "Fear_03",
 				"File": "../../motion/Fear/Fear_03.exp3.json"
 			},
 			{
-				"Name": "fear11-4",
+				"Name": "Fear_04",
 				"File": "../../motion/Fear/Fear_04.exp3.json"
 			},
 			{
-				"Name": "fear11-5",
+				"Name": "Fear_05",
 				"File": "../../motion/Fear/Fear_05.exp3.json"
 			},
 			{
-				"Name": "fear11-6",
+				"Name": "Fear_06",
 				"File": "../../motion/Fear/Fear_06.exp3.json"
 			},
 			{
-				"Name": "fear11-7",
+				"Name": "Fear_07",
 				"File": "../../motion/Fear/Fear_07.exp3.json"
 			},
 			{
-				"Name": "fear11-8",
+				"Name": "Fear_08",
 				"File": "../../motion/Fear/Fear_08.exp3.json"
 			},
 			{
-				"Name": "fear11-9",
+				"Name": "Fear_09",
 				"File": "../../motion/Fear/Fear_09.exp3.json"
 			},
 			{
-				"Name": "fear11-10",
+				"Name": "Fear_10",
 				"File": "../../motion/Fear/Fear_10.exp3.json"
 			},
 			{
-				"Name": "anger11-1",
+				"Name": "Anger_01",
 				"File": "../../motion/Anger/Anger_01.exp3.json"
 			},
 			{
-				"Name": "anger11-2",
+				"Name": "Anger_02",
 				"File": "../../motion/Anger/Anger_02.exp3.json"
 			},
 			{
-				"Name": "anger11-3",
+				"Name": "Anger_03",
 				"File": "../../motion/Anger/Anger_03.exp3.json"
 			},
 			{
-				"Name": "anger11-4",
+				"Name": "Anger_04",
 				"File": "../../motion/Anger/Anger_04.exp3.json"
 			},
 			{
-				"Name": "anger11-5",
+				"Name": "Anger_05",
 				"File": "../../motion/Anger/Anger_05.exp3.json"
 			},
 			{
-				"Name": "anger11-6",
+				"Name": "Anger_06",
 				"File": "../../motion/Anger/Anger_06.exp3.json"
 			},
 			{
-				"Name": "anger11-7",
+				"Name": "Anger_07",
 				"File": "../../motion/Anger/Anger_07.exp3.json"
 			},
 			{
-				"Name": "anger11-8",
+				"Name": "Anger_08",
 				"File": "../../motion/Anger/Anger_08.exp3.json"
 			},
 			{
-				"Name": "anger11-9",
+				"Name": "Anger_09",
 				"File": "../../motion/Anger/Anger_09.exp3.json"
 			},
 			{
-				"Name": "anger11-10",
+				"Name": "Anger_10",
 				"File": "../../motion/Anger/Anger_10.exp3.json"
 			},
 			{
-				"Name": "surprised11-1",
+				"Name": "Surprised_01",
 				"File": "../../motion/Surprised/Surprised_01.exp3.json"
 			},
 			{
-				"Name": "surprised11-2",
+				"Name": "Surprised_02",
 				"File": "../../motion/Surprised/Surprised_02.exp3.json"
 			},
 			{
-				"Name": "surprised11-3",
+				"Name": "Surprised_03",
 				"File": "../../motion/Surprised/Surprised_03.exp3.json"
 			},
 			{
-				"Name": "surprised11-4",
+				"Name": "Surprised_04",
 				"File": "../../motion/Surprised/Surprised_04.exp3.json"
 			},
 			{
-				"Name": "surprised11-5",
+				"Name": "Surprised_05",
 				"File": "../../motion/Surprised/Surprised_05.exp3.json"
 			},
 			{
-				"Name": "surprised11-6",
+				"Name": "Surprised_06",
 				"File": "../../motion/Surprised/Surprised_06.exp3.json"
 			},
 			{
-				"Name": "surprised11-7",
+				"Name": "Surprised_07",
 				"File": "../../motion/Surprised/Surprised_07.exp3.json"
 			},
 			{
-				"Name": "surprised11-8",
+				"Name": "Surprised_08",
 				"File": "../../motion/Surprised/Surprised_08.exp3.json"
 			},
 			{
-				"Name": "surprised11-9",
+				"Name": "Surprised_09",
 				"File": "../../motion/Surprised/Surprised_09.exp3.json"
 			},
 			{
-				"Name": "surprised11-10",
+				"Name": "Surprised_10",
 				"File": "../../motion/Surprised/Surprised_10.exp3.json"
 			},
 			{
