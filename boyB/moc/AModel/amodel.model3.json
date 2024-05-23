@@ -9,15 +9,15 @@
 		"DisplayInfo": "AModel.cdi3.json",
 		"Expressions": [
 			{
-				"Name": "joy11-1",
+				"Name": "Joy_01",
 				"File": "../../motion/Joy/Joy_01.exp3.json"
 			},
 			{
-				"Name": "joy11-2",
+				"Name": "Joy_02",
 				"File": "../../motion/Joy/Joy_02.exp3.json"
 			},
 			{
-				"Name": "joy11-3",
+				"Name": "Joy_03",
 				"File": "../../motion/Joy/Joy_03.exp3.json"
 			},
 			{
